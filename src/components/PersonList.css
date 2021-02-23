@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+
+}
+.centeraline{
+    width: 100%;
+  height: 350px;
+  text-align: left;
+  
+}
